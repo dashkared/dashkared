@@ -1,14 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00D4FF&height=180&section=header&text=Dmitriy%20Shkarednyy&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dashkared&color=0077ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ## 👨‍💻 Whoami
 
-My name is **Dmitriy Shkarednyy** and I am a Junior Data Analyst / Data Scientist[cite: 2]. I'm currently studying Applied Mathematics and Computer Science (Applied Machine Learning) at the Financial University under the Government of the Russian Federation located in Moscow, Russia[cite: 2].
+My name is **Dmitriy Shkarednyy** and I am a Junior Data Analyst / Data Scientist. I'm currently studying Applied Mathematics and Computer Science (Applied Machine Learning) at the Financial University under the Government of the Russian Federation located in Moscow, Russia.
 
-I am interested in product analytics, deep learning, GeoAI, and building end-to-end ML solutions[cite: 2].
+I am interested in product analytics, deep learning, GeoAI, and building end-to-end ML solutions.
 
 
 ## 🛠 Technologies & Tools
@@ -22,14 +18,6 @@ I am interested in product analytics, deep learning, GeoAI, and building end-to-
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 
 
-## 🏆 Experience & Highlights
-
-- 🔬 **Research Assistant** at Data Analysis Lab (Financial University)[cite: 2]
-- 🏅 **Semi-Finalist** in Yandex "Battle of Universities" (Competitive Programming)[cite: 2]
-- 💡 **Participant** in Hack&Change by Changellenge >> (Income prediction track)[cite: 2]
-- 🗺️ **Junior Cartographer** at Yandex (Geodata analysis & moderation)[cite: 2]
-
-
 ## 📖 Courses & Education
 
 ![MSU](https://img.shields.io/badge/MSU%20%2F%20Teach--in-Applied%20Machine%20Learning-154360?style=for-the-badge)
@@ -40,6 +28,22 @@ I am interested in product analytics, deep learning, GeoAI, and building end-to-
 ![MIPT](https://img.shields.io/badge/MIPT-Deep%20Learning%20School-0055A5?style=for-the-badge)
 
 
+## 📚 What I am currently learning / improving on
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-DLS%20MIPT-blue?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-Text%20Classification-orange?style=for-the-badge) ![GeoAI](https://img.shields.io/badge/GeoAI-Spatial%20Data%20Analysis-green?style=for-the-badge)
+
+
+## 🎯 What I am interested in learning at some point
+
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-CV-red?style=for-the-badge) ![MLOps](https://img.shields.io/badge/MLOps-Pipeline%20Automation-purple?style=for-the-badge) ![Advanced A/B Testing](https://img.shields.io/badge/Product%20Analytics-A%2FB%20Testing-brightgreen?style=for-the-badge)
+
+
+## 🏆 Experience & Achievements
+
+- 🔬 **Research Assistant** at Data Analysis Lab (Financial University) 
+- 🏅 **Semi-Finalist** in Yandex "Battle of Universities" (Competitive Programming) 
+- 💡 **Participant** in Hack&Change by Changellenge >> (Income prediction track) 
+- 🗺️ **ex-Junior Cartographer** at Yandex (Geodata analysis & moderation)
 
 ## 📬 Reach me on
 
