@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Whoami
 
-My name is **Dmitry Shkaredny** and I am a Junior Data Analyst / Data Scientist Intern. I'm currently studying Applied Mathematics and Computer Science (Applied Machine Learning) at the Financial University under the Government of the Russian Federation.
+My name is **Dmitriy Shkarednyy** and I am a Junior Data Analyst / Data Scientist. I'm currently studying Applied Mathematics and Computer Science (Applied Machine Learning) at the Financial University under the Government of the Russian Federation located in Moscow, Russia.
 
 I am interested in product analytics, deep learning, GeoAI, and building end-to-end ML solutions.
 
