@@ -18,6 +18,15 @@ I am interested in product analytics, deep learning, GeoAI, and building end-to-
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 
 
+## 📖 Courses & Education
+
+![VK Education](https://img.shields.io/badge/VK%20Education-Product%20Analytics-0077FF?style=for-the-badge&logo=vk&logoColor=white)
+![VK Education](https://img.shields.io/badge/VK%20Education-Recommender%20Systems-0077FF?style=for-the-badge&logo=vk&logoColor=white)
+![Stanford](https://img.shields.io/badge/Stanford-CS231n%20Deep%20Learning%20for%20CV-8C1515?style=for-the-badge&logo=stanford&logoColor=white)
+![Harvard](https://img.shields.io/badge/Harvard-CS50%20Computer%20Science-A51C30?style=for-the-badge&logo=edx&logoColor=white)
+![MIPT](https://img.shields.io/badge/MIPT-Deep%20Learning%20School-0055A5?style=for-the-badge)
+
+
 ## 📚 What I am currently learning / improving on
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-DLS%20MIPT-blue?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-Text%20Classification-orange?style=for-the-badge) ![GeoAI](https://img.shields.io/badge/GeoAI-Spatial%20Data%20Analysis-green?style=for-the-badge)
