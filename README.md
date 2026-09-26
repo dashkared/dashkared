@@ -20,7 +20,7 @@ I am interested in product analytics, deep learning, GeoAI, and building end-to-
 
 ## 📚 What I am currently learning / improving on
 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-DLS%20MFTI-blue?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-Text%20Classification-orange?style=for-the-badge) ![GeoAI](https://img.shields.io/badge/GeoAI-Spatial%20Data%20Analysis-green?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-DeepLearningSchool%20MIPT-blue?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-Text%20Classification-orange?style=for-the-badge) ![GeoAI](https://img.shields.io/badge/GeoAI-Spatial%20Data%20Analysis-green?style=for-the-badge)
 
 
 ## 🎯 What I am interested in learning at some point
