@@ -48,3 +48,7 @@ I am interested in product analytics, deep learning, GeoAI, and building end-to-
 ## 📬 Reach me on
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dashkared) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shkaredny2005@mail.ru) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dashkared)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dashkared&color=0077ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
