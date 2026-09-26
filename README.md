@@ -1,4 +1,6 @@
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077FF&center=true&vCenter=true&width=500&lines=Junior+Data+Scientist+%2F+Analyst;Deep+Learning+%26+GeoAI+Enthusiast;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
 
 ## 👨‍💻 Whoami
 
@@ -52,3 +54,5 @@ I am interested in product analytics, deep learning, GeoAI, and building end-to-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dashkared&color=0077ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
