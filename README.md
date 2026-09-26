@@ -20,6 +20,7 @@ I am interested in product analytics, deep learning, GeoAI, and building end-to-
 
 ## 📖 Courses & Education
 
+![MSU](https://img.shields.io/badge/MSU%20%2F%20Teach--in-Applied%20Machine%20Learning-154360?style=for-the-badge)
 ![VK Education](https://img.shields.io/badge/VK%20Education-Product%20Analytics-0077FF?style=for-the-badge&logo=vk&logoColor=white)
 ![VK Education](https://img.shields.io/badge/VK%20Education-Recommender%20Systems-0077FF?style=for-the-badge&logo=vk&logoColor=white)
 ![Stanford](https://img.shields.io/badge/Stanford-CS231n%20Deep%20Learning%20for%20CV-8C1515?style=for-the-badge&logo=stanford&logoColor=white)
